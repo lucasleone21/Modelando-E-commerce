@@ -1,4 +1,7 @@
 # Modelando-E-commerce
+
+Arquivo em formato PDF disponibilizado como E-commerce
+
 Modelagem de um banco de dados relacional para uma plataforma de E-commerce. Desafio proposto pela plataforma Dio.me
 
 Neste modelo simplicado de um E-commerce temos algumas entidades como: Cliente, Pedido, Fornecedor, Entrega, Pagamento, Estoque, Terceiro Vendedor...
